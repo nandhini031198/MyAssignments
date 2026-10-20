@@ -1,0 +1,18 @@
+Strin literal 
+Object literal
+string property : no ()
+string methods:
+Escape sequence - /n /t /"/"
+template literal to concate `${}`
+charAt()
+indexOf()
+indexOf() - second occurance
+substring()
+slice()
+split()
+task
+array
+push,pop,unshift,shift,slice,splice,set
+objects
+map,map.set,map.get,map.has,map.delete,map.clear,map.size
+function ,Named function,functioon expresion,arrrow functioon
